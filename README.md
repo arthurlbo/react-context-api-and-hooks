@@ -1,10 +1,9 @@
-## Projeto feito no curso de React e Next.Js do Luiz Otávio Miranda. 
-#### https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado/
+## A counter made in [React and Next.Js course by Luiz Otávio Miranda](https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado/). 
 
-### Projeto feito para praticar a utilização do react-context-api com alguns principais hooks do React.
-### Projeto original no curso é usado JavaScript, refeito em TypeScript para praticar.
+### Project made to practice using the React-Context-Api and some main React Hooks. 
+### The original project is made with JavaScript, redone with TypeScript to pratice.
 
-## 🚀 Instalar e rodar
+## 🚀 Install and run
 
 ```bash
 git@github.com:arthurlbo/react-context-api-and-hooks.git
