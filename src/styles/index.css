@@ -19,14 +19,14 @@ body {
     margin: 0;
     display: flex;
     place-items: center;
-    width: 100vw;
-    min-height: 100vh;
+    width: 100%;
+    height: 100vh;
     background: linear-gradient(68.15deg, #000428 10%, #004e92 90%);
 }
 
 h1 {
     font-size: 6em;
-    line-height: 1.1;
+    line-height: 0.5;
     color: white;
 }
 
@@ -56,7 +56,7 @@ button:hover {
     justify-items: center;
     align-items: center;
     width: 100vw;
-    height: 70vh;
+    height: 100vh;
 }
 
 .buttons {
